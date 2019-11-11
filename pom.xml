@@ -9,9 +9,9 @@
         <relativePath/>
     </parent>
     <groupId>io.github.osvaldjr</groupId>
-    <artifactId>ff4j-api-server</artifactId>
+    <artifactId>ff4j-sample</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ff4j-pure</name>
+    <name>ff4j-sample</name>
     <description>FF4J Server</description>
 
     <properties>
