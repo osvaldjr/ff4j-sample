@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+ff4j:
+  webapi:
+    authentication: false
+    authorization: false
+  redis:
+    server: localhost
